@@ -1,0 +1,14 @@
+.container1{
+    background-image: linear-gradient(to right top, #f08fc6, #e094d4, #cd99de, #b89ee5, #a2a3e8, #90adf1, #7cb6f6, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.head{
+    color:white;
+    font-size: 40px;
+    text-align: center;
+}
