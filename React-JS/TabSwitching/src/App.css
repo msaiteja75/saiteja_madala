@@ -1,0 +1,47 @@
+.head1{
+    text-align: center;
+    font-size:40px;
+    margin-top: 90px;
+}
+.para{
+    text-align: center;
+    width:650px;
+    font-size:16px;
+}
+
+.container1{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+.buttonsContainer{
+    display: flex;
+    justify-content: center;
+
+}
+.cardItems{
+    /*border:2px solid red;*/
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.items{
+    /*border:3px solid blue;*/
+    width:1300px;
+
+}
+.unorderlist{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.doneby{
+    display: flex;
+    justify-content: right;
+    margin:50px;
+}
