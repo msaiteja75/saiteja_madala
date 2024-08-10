@@ -1,0 +1,42 @@
+.image{
+    width:60px;
+    height:60px;
+    margin:15px;
+
+
+}
+.appName{
+    font-size: 18px;
+    margin-top:-5px;
+    margin-left: 8px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+
+
+
+
+}
+.item_container{
+    background-color: white;
+    /*border:2px solid red;*/
+    width: 120px;
+    margin:20px;
+    height:130px;
+    border-radius: 5px;
+}
+.item_container:hover{
+    cursor: pointer;
+    box-shadow:1px 0px 5px 1px;
+}
+.list{
+    list-style-type: none;
+
+
+
+}
+
+.image_container{
+    display: flex;
+    justify-content: center;
+}

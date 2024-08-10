@@ -1,0 +1,51 @@
+.b1{
+
+     margin:10px;
+
+    font-size: large;
+    background-color: transparent;
+    color: #fcfcfc;
+    border-style: none;
+
+}
+
+.b1:hover{
+    cursor:pointer;
+    color:green;
+}
+
+.style1{
+    border-bottom: 5px solid green;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline:none;
+    margin:10px;
+
+    font-size: large;
+    background-color: transparent;
+    color: #fcfcfc;
+
+
+}
+
+.style2{
+    margin:10px;
+
+    font-size: large;
+    background-color: transparent;
+    color: #fcfcfc;
+    border-style: none;
+
+}
+.style1:hover{
+    cursor:pointer;
+    color:green;
+}
+
+
+
+.style2:hover{
+    cursor:pointer;
+    color:green;
+}

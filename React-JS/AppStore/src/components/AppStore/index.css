@@ -1,0 +1,52 @@
+.head{
+    text-align: center;
+    margin-top:30px;
+    font-size: 40px;
+}
+
+.searchInput{
+
+    height:30px;
+    background-image: url("https://assets.ccbp.in/frontend/react-js/app-store/app-store-search-img.png");
+    background-repeat: no-repeat;
+    background-position-x: 210px;
+    background-size: contain;
+    font-size: large;
+    font-weight: bold;
+    outline:none;
+    border:2px solid grey;
+    border-radius: 5px;
+}
+
+.container1{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.buttonsContainer{
+    display: flex;
+    margin:10px;
+    /*border:2px solid red;*/
+    justify-content: center;
+}
+.searchContainer{
+    display: flex;
+    justify-content: center;
+}
+.itemscontainer{
+    /*border:5px solid red;*/
+    display: flex;
+    justify-content: center;
+    height:690px;
+
+
+}
+.unorderlist{
+    display: flex;
+    flex-wrap: wrap;
+    /*border:3px solid green;*/
+    width:550px;
+    justify-content: center;
+
+}
