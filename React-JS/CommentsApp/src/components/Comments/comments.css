@@ -1,0 +1,77 @@
+.h1{
+    margin:10px;
+    width: 250px;
+    text-align: center;
+}
+
+.t1{
+    margin:30px;
+    height:25px;
+    width:250px;
+
+}
+.t1::placeholder{
+    padding:3px;
+    font-family: Roboto;
+    font-size: large;
+}
+
+.t2{
+    margin-left: 30px;
+    margin-top:-25px;
+    width:250px;
+    height:100px;
+    resize: none;
+}
+.t2::placeholder{
+    padding:5px;
+    font-family: Roboto;
+    font-size: large;
+}
+.para{
+    margin:10px;
+    width: 250px;
+    text-align: center;
+}
+
+.b1{
+    margin-left:30px;
+    height:35px;
+    font-size: 15px;
+    background-color: lightblue;
+    border-radius: 2px;
+    outline: none;
+    border-style: none;
+    font-weight: bold;
+
+}
+.b1:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 5px 0px;
+}
+.c1{
+    /*border:2px solid green;*/
+    margin-top: 10px;
+    margin-left:40px;
+    display: flex;
+    box-shadow: 0px 1px 1px 0px;
+    padding:5px;
+    border-radius: 10px;
+    width:1800px;
+
+}
+
+.form_container{
+    /*border:2px solid black;*/
+    margin-left:10px;
+    margin-top: 50px;
+}
+.imagecontainer{
+    /*border:2px solid red;*/
+    width:700px;
+    background-image: url("https://previews.123rf.com/images/bsvit/bsvit1911/bsvit191100008/135500819-young-people-use-smartphones-and-chatting-in-messenger-or-social-network-social-media-chat-and.jpg");
+    background-size:cover;
+    margin-left: 30px;
+    margin-top: 50px;
+
+}
