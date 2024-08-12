@@ -1,0 +1,44 @@
+.details_container{
+    /*border:2px solid red;*/
+    display: flex;
+
+    flex-direction: column;
+    width:300px;
+    margin:5px;
+    font-family: Roboto;
+    font-size: large;
+}
+
+.container{
+    border: 1px solid #b5b7c4;
+    /*border:1px solid white;*/
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 1px 1px 0px;
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.date{
+    margin-top: 1px;
+    color: #777474;
+
+    /*color:white;*/
+
+}
+.favourite_container{
+    margin:10px;
+
+
+}
+.b1{
+    background-color: transparent;
+    border-style: none;
+}
+.list{
+    list-style-type: none;
+    margin-left: 15px;
+    margin-top: 15px;
+}
