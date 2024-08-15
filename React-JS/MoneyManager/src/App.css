@@ -1,0 +1,116 @@
+.container13{
+    /*border:2px solid red;*/
+    width:900px;
+    margin:auto;
+    margin-top:10px;
+    height:500px;
+    display:flex;
+}
+.formContainer{
+
+    /*border:2px solid blue;*/
+    height:482px;
+    margin-top:10px;
+    width:450px;
+
+}
+.historyContainer{
+    /*border:2px solid black;*/
+    margin-top:10px;
+    height:482px;
+    width:450px;
+}
+.form{
+    margin-top:30px;
+    border:1px solid silver;
+    width:320px;
+    padding:30px;
+    margin-left:20px;
+    border-radius:10px;
+}
+.input_box{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:180px;
+    height:30px;
+    padding-left:10px;
+}
+.input_box::placeholder{
+
+}
+.selector{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:180px;
+    height:35px;
+    background-color:transparent;
+
+
+}
+
+.add{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:60px;
+    height:30px;
+    background-color:#0b69ff;
+    border-radius:5px;
+    color:white;
+    font-weight: bold;
+    border:none;
+
+}
+.add:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 6px #0b69ff;
+}
+
+/*History*/
+.historyBox{
+    margin-top:30px;
+    border:1px solid silver;
+    width:320px;
+    height:335px;
+    padding:30px;
+    margin-left:20px;
+    border-radius:10px;
+}
+
+.head_box{
+
+    margin:10px;
+    margin-right: 8px;
+
+
+    border:1px solid silver;
+    display: flex;
+    height:30px;
+    align-items: center;
+    justify-content:space-around;
+    width:340px;
+    padding:2px;
+    margin-left: 0px;
+}
+.h{
+margin:5px;
+}
+.unorderdlist{
+    display: flex;
+    justify-content: space-between;
+
+
+    /*border:2px solid blue;*/
+    width:900px;
+    margin:auto;
+
+}
+.unorderdlist2{
+    /*border:2px solid red;*/
+    width:290px;
+    /*margin-left: 16px;*/
+    margin-top:-12px;
+
+    padding:2px;
+    margin-right: 11px;
+
+}

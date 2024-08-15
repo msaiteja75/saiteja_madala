@@ -1,0 +1,26 @@
+.list2{
+
+    /*border:2px solid red;*/
+
+    margin-right:20px;
+    margin-left: -10px ;
+    /*width:900px;*/
+    width:fit-content;
+
+}
+.container12{
+    /*border:2px solid green;*/
+    display: flex;
+    width: 250px;
+    margin:10px;
+    border-radius:15px;
+    justify-content: center;
+    align-items: center;
+}
+.container12:hover{
+    box-shadow: 2px 2px 6px #000; ;
+}
+.image{
+    width:90px;
+    margin:10px;
+}
